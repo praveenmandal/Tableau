@@ -15,7 +15,7 @@ There are multiple columns from the tables .Few exampples:
 - Country: Customer's country.
 - Product Name: Name of the products.
 
-####Insights:
+#### Insights:
 - Total Sales-321K with YOYsales-48.68%
 - Total Profit-79K with YOY Profit-43.13%
 - Total Qty-4k with YOY Qty-24.51%
@@ -25,6 +25,7 @@ There are multiple columns from the tables .Few exampples:
 - Segment wise Oct. amd Nov. are the best month for sales.
 - Top sales region is East and Chuck Mague is the best sales manager.
 
-####Dashboard:
+#### Dashboard:
 ![](https://github.com/praveenmandal/Tableau/blob/main/Sales/Sales%20Dashboard.png)
 [Link for interactive dashboard](https://public.tableau.com/views/sales_16779158063840/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+ 
