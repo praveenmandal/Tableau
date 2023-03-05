@@ -27,4 +27,4 @@ There are multiple columns from the tables .Few exampples:
 
 ####Dashboard:
 ![](https://github.com/praveenmandal/Tableau/blob/main/Sales/Sales%20Dashboard.png)
-[ink for interactive dashboard](https://public.tableau.com/views/sales_16779158063840/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link for interactive dashboard](https://public.tableau.com/views/sales_16779158063840/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
